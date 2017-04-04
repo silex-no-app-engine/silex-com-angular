@@ -2,7 +2,7 @@
 
 Códigos do curso SPA com AngularJS &amp; Silex, no canal [Silex Casts](http://youtube.com/SilexCasts).
 
-##Como instalar
+## Como instalar
 
 Clone o projeto:
 
@@ -18,7 +18,7 @@ Instale as dependências com o [Composer](https://getcomposer.org):
 ``` composer install ``` 
 
 
-##Rodando no browser
+## Rodando no browser
 
 Execute o built-in server na raiz da pasta, apontando pro public folder: 
 
