@@ -25,3 +25,5 @@ Execute o built-in server na raiz da pasta, apontando pro public folder:
 ``` php -S localhost:8000 -t public ``` 
 
 
+Acesse a url http://localhost:8000 em seu browser!
+
